@@ -1,0 +1,14 @@
+{
+  "name": "nordstone-task-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "16.4.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
